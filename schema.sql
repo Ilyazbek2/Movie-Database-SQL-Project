@@ -29,7 +29,7 @@ CREATE TABLE Movie_Cast (
     FOREIGN KEY (actor_id) REFERENCES Actors(actor_id)
 );
 
-CREATE TABLE BoxOffice (
+CREATE TABLE Box_Office (
     movie_id INT PRIMARY KEY,
     budget BIGINT,
     revenue BIGINT,
