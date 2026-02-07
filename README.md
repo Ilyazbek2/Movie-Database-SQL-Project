@@ -1,4 +1,4 @@
-# Movie-Database-SQL-Project# 🎬 Movie Database SQL Project
+# Movie-Database-SQL-Project#
 
 This project demonstrates SQL querying skills using a relational movie database.
 
